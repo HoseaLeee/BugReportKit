@@ -11,7 +11,7 @@ s.homepage         = "https://github.com/HoseaLeee/BugReportKit"
 s.license          = 'MIT'
 s.author           = { "HoseaLeee" => "hosealee@126.com" }
 s.source           = { :git => "https://github.com/HoseaLeee/BugReportKit.git", :tag => s.version.to_s }
-s.platform     = :ios, '7.0'
+s.platform     = :ios, '8.0'
 #s.resources          = "BugReportKit/*"
 s.vendored_frameworks = 'BugReportKit/BugReportKit.framework'
 
