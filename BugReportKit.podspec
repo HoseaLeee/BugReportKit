@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name             = "BugReportKit"
-s.version          = "1.0.0"
+s.version          = "2.5.0"
 s.summary          = " Bugly framework
 "
 s.description      = <<-DESC
